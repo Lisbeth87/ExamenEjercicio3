@@ -9,5 +9,6 @@ public static boolean hyperPar (int num) {
             return false;
         }
     }
+CONFLICTO
     return true;
 }
